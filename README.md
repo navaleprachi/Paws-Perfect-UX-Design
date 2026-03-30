@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🐾 Paws Perfect
-### *Your Companion Connection Starts Here*
+
+### _Your Companion Connection Starts Here_
 
 **A UX/UI design concept for a pet adoption and care app — helping individuals find animal companions that fit their lifestyle while connecting them with trusted pet care services.**
 
@@ -54,9 +55,9 @@ These pain points lead to compatibility issues, overwhelming decisions, and hesi
 
 Conducted user interviews to understand real pet owner needs before designing anything. Key interview questions included:
 
-- *Are there specific lifestyle factors that influence your decision to own a pet (work schedule, family dynamics, living space)?*
-- *Have you encountered challenges or concerns related to pet ownership in the past?*
-- *What worked well with existing apps, and what felt missing or could be improved?*
+- _Are there specific lifestyle factors that influence your decision to own a pet (work schedule, family dynamics, living space)?_
+- _Have you encountered challenges or concerns related to pet ownership in the past?_
+- _What worked well with existing apps, and what felt missing or could be improved?_
 
 ### Empathy Map
 
@@ -71,18 +72,23 @@ Conducted user interviews to understand real pet owner needs before designing an
 ## ✨ Key Features Designed
 
 ### 🐾 Pet Adoption with Personalized Matching
+
 Browse pets by category with detailed profiles — helping users find companions that match their lifestyle, space, and preferences. Add to favorites for easy comparison.
 
 ### 🛁 Pet Care Service Booking
+
 Book appointments directly with groomers and veterinarians — view nearby vets, check available dates and times, and confirm bookings in-app.
 
 ### 💬 In-App Chat
+
 Direct messaging with adoption centers or other users — making it easy to ask questions, get support, and make informed adoption decisions before committing.
 
 ### 👥 Community Page
+
 A social feed where pet owners share stories, posts, and experiences — creating a community of engaged pet lovers that helps new owners feel supported.
 
 ### 🔍 Search & Filter
+
 Search for pets by category and filter by type — making discovery fast and relevant to each user's preferences.
 
 ---
@@ -90,6 +96,7 @@ Search for pets by category and filter by type — making discovery fast and rel
 ## 🎨 Design Process
 
 ### 1. User Research & Empathy Mapping
+
 Conducted user interviews to validate assumptions about pet ownership behavior, concerns, and expectations — ensuring the app addresses real-world needs, not assumptions.
 
 ### 2. Hand Sketches
@@ -98,8 +105,8 @@ Low-fidelity paper sketches to rapidly explore layout ideas across all features 
 
 <table>
   <tr>
-    <td><img src="screenshots/sketch_1.png" width="380"/></td>
-    <td><img src="screenshots/sketch_2.png" width="380"/></td>
+    <td><img src="screenshots/sketch_1.png" width="380" height="500"/></td>
+    <td><img src="screenshots/sketch_2.png" width="380" height="500"/></td>
   </tr>
 </table>
 
@@ -115,10 +122,10 @@ Low-fidelity digital wireframes covering Home, Favorites, Adoption List & Detail
     <td align="center"><b>Chat</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/wireframe_home.png" width="170"/></td>
-    <td><img src="screenshots/wireframe_adoption.png" width="170"/></td>
-    <td><img src="screenshots/wireframe_services.png" width="170"/></td>
-    <td><img src="screenshots/wireframe_chat.png" width="170"/></td>
+    <td><img src="screenshots/wireframe_home.png" width="170" height="280"/></td>
+    <td><img src="screenshots/wireframe_adoption.png" width="170" height="280"/></td>
+    <td><img src="screenshots/wireframe_services.png" width="170" height="280"/></td>
+    <td><img src="screenshots/wireframe_chat.png" width="170" height="280"/></td>
   </tr>
 </table>
 
@@ -130,12 +137,12 @@ Final colored prototypes with real images, typography, and a warm orange color p
 
 Conducted usability testing with **4 participants** across 4 core task flows:
 
-| Task | Flow |
-|---|---|
-| Task 1 | Navigate to Home Page and explore |
+| Task   | Flow                                  |
+| ------ | ------------------------------------- |
+| Task 1 | Navigate to Home Page and explore     |
 | Task 2 | Browse Adoption List and post details |
-| Task 3 | Navigate to Services Page and book |
-| Task 4 | Navigate to Community Page |
+| Task 3 | Navigate to Services Page and book    |
+| Task 4 | Navigate to Community Page            |
 
 **Key feedback from participants:**
 
@@ -163,11 +170,13 @@ Conducted usability testing with **4 participants** across 4 core task flows:
 ## 💭 Reflection
 
 **What went well**
+
 - User interviews gave clear, validated direction before any design work began
 - Built high-quality layouts with a complete, working user flow
 - Learned the end-to-end UX/UI design process — from research to prototype
 
 **What could be improved**
+
 - Conduct more user interviews with real-world participants beyond the classroom
 - The design process was time-intensive — need deeper hands-on skills in animations and micro-interactions
 - More services and features (pet training, blog section, community comments) identified from usability feedback
